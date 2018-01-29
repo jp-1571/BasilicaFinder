@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Basilica</string>
+    <string name="app_name_long">Basilica Finder</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="basilica_1_text">This is the Basilica of St. Mary</string>
+    <string name="basilica_2_text">This is Our Lady of Victoria Basilica and National Shrine</string>
+    <string name="basilica_3_text">This is St. Josaphat\'s Basilica</string>
+    <string name="basilica_4_text">This is the Basilica of the National Shrine of the Assumption of the Virgin Mary</string>
+    <string name="basilica_5_text">This is the Basilica of the Immaculate Conception</string>
+    <string name="basilica_6_text">This is the Basilica of the Blessed Virgin of Gethsemani</string>
+    <string name="basilica_7_text">This is the Basilica of Saint Francis of Assisi</string>
+    <string name="basilica_8_text">This is the Cathedral Basilica of the Assumption</string>
+    <string name="basilica_9_text">This is the Basilica and Shrine of Our Lady of Perpetual Help</string>
+    <string name="basilica_10_text">This is the St. Vincent Archabbey Basilica</string>
+    <string name="title_activity_map">Map</string>
+</resources>

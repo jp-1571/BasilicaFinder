@@ -1,0 +1,749 @@
+[
+{
+    "Name": "Basilica of St. Mary",
+    "City": "Minneapolis",
+    "State": "Minnesota",
+    "Latitude": 44.973056,
+    "Longitude": -93.286389,
+    "Date": "1926.01.18",
+    "Number": 1
+  },
+  {
+    "Name": "Our Lady of Victoria Basilica and National Shrine",
+    "City": "Lackawanna",
+    "State": "New York",
+    "Latitude": 42.825833,
+    "Longitude": -78.823611,
+    "Date": "1926.07.14",
+    "Number": 2
+  },
+  {
+    "Name": "St. Josaphat's Basilica",
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "Latitude": 43.002408,
+    "Longitude": -87.919086,
+    "Date": "1929.03.10",
+    "Number": 3
+  },
+  {
+    "Name": "Basilica of the National Shrine of the Assumption of the Virgin Mary",
+    "City": "Baltimore",
+    "State": "Maryland",
+    "Latitude": 39.294392,
+    "Longitude": -76.616161,
+    "Date": "1937.07.14",
+    "Number": 4
+  },
+  {
+    "Name": "Basilica of the Immaculate Conception",
+    "City": "Conception",
+    "State": "Missouri",
+    "Latitude": 40.242323,
+    "Longitude": -94.68363,
+    "Date": "1940.08.07",
+    "Number": 5
+  },
+  {
+    "Name": "Basilica of the Blessed Virgin of Gethsemani",
+    "City": "New Haven",
+    "State": "Kentucky",
+    "Latitude": 37.664167,
+    "Longitude": -85.529444,
+    "Date": "1949.04.22",
+    "Number": 6
+  },
+  {
+    "Name": "Basilica of Saint Francis of Assisi",
+    "City": "San Francisco",
+    "State": "California",
+    "Latitude": 37.764389,
+    "Longitude": -122.427028,
+    "Date": "1952.02.06",
+    "Number": 7
+  },
+  {
+    "Name": "Cathedral Basilica of the Assumption",
+    "City": "Covington",
+    "State": "Kentucky",
+    "Latitude": 39.078333,
+    "Longitude": -84.508056,
+    "Date": "1953.10.19",
+    "Number": 8
+  },
+  {
+    "Name": "Basilica and Shrine of Our Lady of Perpetual Help",
+    "City": "Boston",
+    "State": "Massachusetts",
+    "Latitude": 42.332583,
+    "Longitude": -71.100597,
+    "Date": "1954.09.08",
+    "Number": 9
+  },
+  {
+    "Name": "St. Vincent Archabbey Basilica",
+    "City": "Latrobe",
+    "State": "Pennsylvania",
+    "Latitude": 40.292408,
+    "Longitude": -79.405692,
+    "Date": "1955.08.22",
+    "Number": 10
+  },
+  {
+    "Name": "Our Lady of Sorrows Basilica",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Latitude": 41.877043,
+    "Longitude": -87.704033,
+    "Date": "1956.05.04",
+    "Number": 11
+  },
+  {
+    "Name": "Basilica of St. Francis Xavier",
+    "City": "Dyersville",
+    "State": "Iowa",
+    "Latitude": 42.48444,
+    "Longitude": -91.126246,
+    "Date": "1956.05.11",
+    "Number": 12
+  },
+  {
+    "Name": "Basilica of Mission San Carlos Borromeo del Rio Carmelo (Carmelo Mission)",
+    "City": "Carmel-by-the-Sea",
+    "State": "California",
+    "Latitude": 36.542778,
+    "Longitude": -121.918611,
+    "Date": "1960.02.05",
+    "Number": 13
+  },
+  {
+    "Name": "Basilica of St. Louis, King of France (Old Cathedral)",
+    "City": "St. Louis",
+    "State": "Missouri",
+    "Latitude": 38.624121,
+    "Longitude": -90.187229,
+    "Date": "1961.01.27",
+    "Number": 14
+  },
+  {
+    "Name": "Cathedral Basilica of the Immaculate Conception",
+    "City": "Mobile",
+    "State": "Alabama ",
+    "Latitude": 30.69,
+    "Longitude": -88.045833,
+    "Date": "1962.03.10",
+    "Number": 15
+  },
+  {
+    "Name": "Basilica of Queen of All Saints",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Latitude": 41.9952,
+    "Longitude": -87.7448,
+    "Date": "1962.03.26",
+    "Number": 16
+  },
+  {
+    "Name": "Basilica of the Sacred Heart of Jesus",
+    "City": "Conewago",
+    "State": "Pennsylvania",
+    "Latitude": 39.818889,
+    "Longitude": -77.038056,
+    "Date": "1962.06.30",
+    "Number": 17
+  },
+  {
+    "Name": "Cathedral Basilica of St. Louis King of France",
+    "City": "New Orleans",
+    "State": "Louisiana",
+    "Latitude": 29.958,
+    "Longitude": -90.0638,
+    "Date": "1964.12.09",
+    "Number": 18
+  },
+  {
+    "Name": "Basilica of Our Lady of Perpetual Help",
+    "City": "Brooklyn",
+    "State": "New York",
+    "Latitude": 40.6395,
+    "Longitude": -74.0152,
+    "Date": "1969.09.05",
+    "Number": 19
+  },
+  {
+    "Name": "Basilica of St. Francis Xavier (Old Cathedral)",
+    "City": "Vincennes",
+    "State": "Indiana",
+    "Latitude": 38.678889,
+    "Longitude": -87.534167,
+    "Date": "1970.03.14",
+    "Number": 20
+  },
+  {
+    "Name": "Basilica and National Shrine of Our Lady of Consolation",
+    "City": "Carey",
+    "State": "Ohio",
+    "Latitude": 40.950855,
+    "Longitude": -83.387124,
+    "Date": "1971.10.21",
+    "Number": 21
+  },
+  {
+    "Name": "St. Joseph Basilica",
+    "City": "Alameda",
+    "State": "California",
+    "Latitude": 37.766389,
+    "Longitude": -122.253611,
+    "Date": "1972.01.21",
+    "Number": 22
+  },
+  {
+    "Name": "National Shrine Basilica of Our Lady of Fatima",
+    "City": "Lewiston",
+    "State": "New York",
+    "Latitude": 43.200342,
+    "Longitude": -79.003317,
+    "Date": "1975.07.14",
+    "Number": 23
+  },
+  {
+    "Name": "Mission Basilica of San Diego de Alcala",
+    "City": "San Diego",
+    "State": "California",
+    "Latitude": 32.784444,
+    "Longitude": -117.106389,
+    "Date": "1975.11.17",
+    "Number": 24
+  },
+  {
+    "Name": "Cathedral Basilica of Sts. Peter and Paul",
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Latitude": 39.957286,
+    "Longitude": -75.168939,
+    "Date": "1976.09.27",
+    "Number": 25
+  },
+  {
+    "Name": "Cathedral Basilica of St. Augustine",
+    "City": "St. Augustine",
+    "State": "Florida",
+    "Latitude": 29.892778,
+    "Longitude": -81.3125,
+    "Date": "1976.12.04",
+    "Number": 26
+  },
+  {
+    "Name": "St. Mary's Cathedral Basilica",
+    "City": "Galveston",
+    "State": "Texas",
+    "Latitude": 29.304125,
+    "Longitude": -94.790314,
+    "Date": "1979.08.02",
+    "Number": 27
+  },
+  {
+    "Name": "Basilica of St. Adalbert",
+    "City": "Grand Rapids",
+    "State": "Michigan",
+    "Latitude": 42.9752,
+    "Longitude": -85.6846,
+    "Date": "1979.08.22",
+    "Number": 28
+  },
+  {
+    "Name": "Cathedral Basilica of the Immaculate Conception",
+    "City": "Denver",
+    "State": "Colorado",
+    "Latitude": 39.740281,
+    "Longitude": -104.981939,
+    "Date": "1979.11.03",
+    "Number": 29
+  },
+  {
+    "Name": "Cathedral Basilica of St. James",
+    "City": "Brooklyn",
+    "State": "New York",
+    "Latitude": 40.697056,
+    "Longitude": -73.986667,
+    "Date": "1982.05.06",
+    "Number": 30
+  },
+  {
+    "Name": "St. Mary's Basilica",
+    "City": "Phoenix",
+    "State": "Arizona",
+    "Latitude": 33.450689,
+    "Longitude": -112.068406,
+    "Date": "1985.09.02",
+    "Number": 31
+  },
+  {
+    "Name": "Basilica of St. James",
+    "City": "Jamestown",
+    "State": "North Dakota",
+    "Latitude": 46.902805,
+    "Longitude": -98.708869,
+    "Date": "1988.10.26",
+    "Number": 32
+  },
+  {
+    "Name": "Basilica of Sts. Cyril and Methodius",
+    "City": "Danville",
+    "State": "Pennsylvania",
+    "Latitude": 40.9627,
+    "Longitude": -76.6029,
+    "Date": "1989.06.30",
+    "Number": 33
+  },
+  {
+    "Name": "Basilica of St. John the Apostle",
+    "City": "Des Moines",
+    "State": "Iowa",
+    "Latitude": 41.600622,
+    "Longitude": -93.643317,
+    "Date": "1989.08.10",
+    "Number": 34
+  },
+  {
+    "Name": "Basilica of the National Shrine of the Immaculate Conception",
+    "City": "Washington",
+    "State": "District of Columbia",
+    "Latitude": 38.933333,
+    "Longitude": -77.000556,
+    "Date": "1990.10.12",
+    "Number": 35
+  },
+  {
+    "Name": "Basilica of the National Shrine of St. Elizabeth Ann Seton",
+    "City": "Emmitsburg",
+    "State": "Maryland",
+    "Latitude": 39.697778,
+    "Longitude": -77.331111,
+    "Date": "1991.02.13",
+    "Number": 36
+  },
+  {
+    "Name": "Basilica of St. Stanislaus",
+    "City": "Chicopee",
+    "State": "Massachusetts",
+    "Latitude": 42.147611,
+    "Longitude": -72.595,
+    "Date": "1991.06.25",
+    "Number": 37
+  },
+  {
+    "Name": "Basilica of St. Mary of the Immaculate Conception",
+    "City": "Norfolk",
+    "State": "Virginia",
+    "Latitude": 36.846944,
+    "Longitude": -76.282222,
+    "Date": "1991.07.09",
+    "Number": 38
+  },
+  {
+    "Name": "Basilica of the Sacred Heart",
+    "City": "Notre Dame",
+    "State": "Indiana",
+    "Latitude": 41.702299,
+    "Longitude": -86.238181,
+    "Date": "1991.11.23",
+    "Number": 39
+  },
+  {
+    "Name": "Basilica of St. Lawrence",
+    "City": "Asheville",
+    "State": "North Carolina",
+    "Latitude": 35.5972,
+    "Longitude": -82.5562,
+    "Date": "1993.04.06",
+    "Number": 40
+  },
+  {
+    "Name": "Cathedral Basilica of the Sacred Heart",
+    "City": "Newark",
+    "State": "New Jersey",
+    "Latitude": 40.7549,
+    "Longitude": -74.1784,
+    "Date": "1995.12.22",
+    "Number": 41
+  },
+  {
+    "Name": "Cathedral Basilica of St. Joseph",
+    "City": "San Jose",
+    "State": "California",
+    "Latitude": 37.334036,
+    "Longitude": -121.890816,
+    "Date": "1995.12.22",
+    "Number": 42
+  },
+  {
+    "Name": "Basilica of the National Shrine of St. Ann",
+    "City": "Scranton",
+    "State": "Pennsylvania",
+    "Latitude": 41.402408,
+    "Longitude": -75.691508,
+    "Date": "1996.08.29",
+    "Number": 43
+  },
+  {
+    "Name": "Basilica of St. Michael the Archangel",
+    "City": "Loretto",
+    "State": "Pennsylvania",
+    "Latitude": 40.5025,
+    "Longitude": -78.6303,
+    "Date": "1996.09.09",
+    "Number": 44
+  },
+  {
+    "Name": "Cathedral Basilica of St. Louis",
+    "City": "St. Louis",
+    "State": "Missouri",
+    "Latitude": 38.6425,
+    "Longitude": -90.254722,
+    "Date": "1997.04.04",
+    "Number": 45
+  },
+  {
+    "Name": "St. Joseph Basilica",
+    "City": "Webster",
+    "State": "Massachusetts",
+    "Latitude": 42.050375,
+    "Longitude": -71.874125,
+    "Date": "1998.06.23",
+    "Number": 46
+  },
+  {
+    "Name": "Basilica of Our Lady Help of Christians",
+    "City": "Belmont",
+    "State": "North Carolina",
+    "Latitude": 35.2613,
+    "Longitude": -81.0438,
+    "Date": "1998.07.27",
+    "Number": 47
+  },
+  {
+    "Name": "Basilica of the Sacred Heart of Jesus",
+    "City": "Syracuse",
+    "State": "New York",
+    "Latitude": 43.052079,
+    "Longitude": -76.179138,
+    "Date": "1998.07.27",
+    "Number": 48
+  },
+  {
+    "Name": "Basilica of the National Shrine of the Little Flower",
+    "City": "San Antonio",
+    "State": "Texas",
+    "Latitude": 29.445833,
+    "Longitude": -98.525,
+    "Date": "1998.08.27",
+    "Number": 49
+  },
+  {
+    "Name": "St. Mary Basilica",
+    "City": "Natchez",
+    "State": "Mississippi",
+    "Latitude": 31.5586,
+    "Longitude": -91.4012,
+    "Date": "1998.09.08",
+    "Number": 50
+  },
+  {
+    "Name": "Basilica of the National Shrine of Our Lady of San Juan del Vaile",
+    "City": "San Juan",
+    "State": "Texas",
+    "Latitude": 26.1985,
+    "Longitude": -98.1576,
+    "Date": "1999.06.12",
+    "Number": 51
+  },
+  {
+    "Name": "Mission Basilica of San Juan Capistrano",
+    "City": "San Juan Capistrano",
+    "State": "California",
+    "Latitude": 33.504245,
+    "Longitude": -117.663452,
+    "Date": "2000.02.14",
+    "Number": 52
+  },
+  {
+    "Name": "St. Joseph Proto-Cathedral Basilica",
+    "City": "Bardstown",
+    "State": "Kentucky",
+    "Latitude": 37.810833,
+    "Longitude": -85.472222,
+    "Date": "2001.07.18",
+    "Number": 53
+  },
+  {
+    "Name": "Basilica of St. Hyacinth",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Latitude": 41.933528,
+    "Longitude": -87.718694,
+    "Date": "2003.06.21",
+    "Number": 54
+  },
+  {
+    "Name": "Sts. Peter and Paul Basilica",
+    "City": "Lewiston",
+    "State": "Maine",
+    "Latitude": 44.09816,
+    "Longitude": -70.212286,
+    "Date": "2004.10.04",
+    "Number": 55
+  },
+  {
+    "Name": "Cathedral Basilica of St. Francis of Assissi",
+    "City": "Sante Fe",
+    "State": "New Mexico",
+    "Latitude": 35.6865,
+    "Longitude": -105.9363,
+    "Date": "2005.10.04",
+    "Number": 56
+  },
+  {
+    "Name": "Basilica of St. Paul",
+    "City": "Daytona Beach",
+    "State": "Florida",
+    "Latitude": 29.2175,
+    "Longitude": -81.027,
+    "Date": "2006.01.20",
+    "Number": 57
+  },
+  {
+    "Name": "St. Anthony Cathedral Basilica",
+    "City": "Beaumont",
+    "State": "Texas",
+    "Latitude": 30.0777,
+    "Longitude": -94.1009,
+    "Date": "2006.07.11",
+    "Number": 58
+  },
+  {
+    "Name": "Basilica of Our Lady of Mary, Help of Christians at Holy Hill",
+    "City": "Hubertus",
+    "State": "Wisconsin",
+    "Latitude": 43.245,
+    "Longitude": -88.327222,
+    "Date": "2006.07.11",
+    "Number": 59
+  },
+  {
+    "Name": "Basilica of the Immaculate Conception",
+    "City": "Waterbury",
+    "State": "Connecticut",
+    "Latitude": 41.5571,
+    "Longitude": -73.0417,
+    "Date": "2008.02.09",
+    "Number": 60
+  },
+  {
+    "Name": "Basilica of San Albino",
+    "City": "Mesilla",
+    "State": "New Mexico",
+    "Latitude": 32.27472,
+    "Longitude": -106.79583,
+    "Date": "2008.06.21",
+    "Number": 61
+  },
+  {
+    "Name": "Basilica of the Immaculate Conception",
+    "City": "Natchitoches",
+    "State": "Louisiana",
+    "Latitude": 31.761111,
+    "Longitude": -93.0875,
+    "Date": "2009.02.22",
+    "Number": 62
+  },
+  {
+    "Name": "Basilica of the National Shrine of Mary, Queen of Universe",
+    "City": "Orlando",
+    "State": "Florida",
+    "Latitude": 28.384736,
+    "Longitude": -81.495776,
+    "Date": "2009.06.03",
+    "Number": 63
+  },
+  {
+    "Name": "Basilica of St. John the Evangelist",
+    "City": "Stamford",
+    "State": "Connecticut",
+    "Latitude": 41.0517,
+    "Longitude": -73.54,
+    "Date": "2009.06.16",
+    "Number": 64
+  },
+  {
+    "Name": "Basilica of the Co-Cathedral of the Sacred Heart",
+    "City": "Charleston",
+    "State": "West Virginia",
+    "Latitude": 38.347325,
+    "Longitude": -81.63285,
+    "Date": "2009.11.09",
+    "Number": 65
+  },
+  {
+    "Name": "Basilica of the Sacred Heart of Jesus",
+    "City": "Atlanta",
+    "State": "Georgia",
+    "Latitude": 33.76375,
+    "Longitude": -84.385694,
+    "Date": "2010.02.22",
+    "Number": 66
+  },
+  {
+    "Name": "Basilica of St. Patrick's Old Cathedral",
+    "City": "New York",
+    "State": "New York",
+    "Latitude": 40.723611,
+    "Longitude": -73.995556,
+    "Date": "2010.03.17",
+    "Number": 67
+  },
+  {
+    "Name": "Basilica of Sts. Peter and Paul",
+    "City": "Chattanooga",
+    "State": "Tennessee",
+    "Latitude": 35.046389,
+    "Longitude": -85.306389,
+    "Date": "2011.05.03",
+    "Number": 68
+  },
+  {
+    "Name": "Basilica of St. Stanislaus Kostka",
+    "City": "Winona",
+    "State": "Minnesota",
+    "Latitude": 44.046944,
+    "Longitude": -91.622222,
+    "Date": "2011.11.10",
+    "Number": 69
+  },
+  {
+    "Name": "Basilica of the Sacred Hearts of Jesus and Mary",
+    "City": "Southampton",
+    "State": "New York",
+    "Latitude": 40.8839,
+    "Longitude": -72.3983,
+    "Date": "2011.11.30",
+    "Number": 70
+  },
+  {
+    "Name": "Basilica of St. Michael the Archangel",
+    "City": "Pensacola",
+    "State": "Florida",
+    "Latitude": 30.41395,
+    "Longitude": -87.21617,
+    "Date": "2011.12.28",
+    "Number": 71
+  },
+  {
+    "Name": "Basilica of St. Mary Star of the Sea",
+    "City": "Key West",
+    "State": "Florida",
+    "Latitude": 24.5531,
+    "Longitude": -81.795464,
+    "Date": "2012.02.11",
+    "Number": 72
+  },
+  {
+    "Name": "Basilica of St. John the Baptist",
+    "City": "Canton",
+    "State": "Ohio",
+    "Latitude": 40.8033,
+    "Longitude": -81.3772,
+    "Date": "2012.06.19",
+    "Number": 73
+  },
+  {
+    "Name": "Basilica of Regina Pacis",
+    "City": "Brooklyn",
+    "State": "New York",
+    "Latitude": 40.626667,
+    "Longitude": -74.003611,
+    "Date": "2012.10.19",
+    "Number": 74
+  },
+  {
+    "Name": "Basilica Shrine of St. Mary",
+    "City": "Wilmington",
+    "State": "North Carolina",
+    "Latitude": 34.232194,
+    "Longitude": -77.943306,
+    "Date": "2013.06.13",
+    "Number": 75
+  },
+  {
+    "Name": "Basilica of St. Mary of the Assumption",
+    "City": "Marietta",
+    "State": "Ohio",
+    "Latitude": 39.4213,
+    "Longitude": -81.4557,
+    "Date": "2013.06.13",
+    "Number": 76
+  },
+  {
+    "Name": "Basilica of the Immaculate Conception",
+    "City": "Jacksonville",
+    "State": "Florida",
+    "Latitude": 30.328889,
+    "Longitude": -81.655278,
+    "Date": "2013.06.21",
+    "Number": 77
+  },
+  {
+    "Name": "Basilica of St. Fidelis",
+    "City": "Victoria",
+    "State": "Kansas",
+    "Latitude": 38.856667,
+    "Longitude": -99.150278,
+    "Date": "2014.02.21",
+    "Number": 78
+  },
+  {
+    "Name": "Cathedral Basilica of Our Lady of Peace",
+    "City": "Honolulu",
+    "State": "Hawaii",
+    "Latitude": 21.31075,
+    "Longitude": -157.859417,
+    "Date": "2014.05.10",
+    "Number": 79
+  },
+  {
+    "Name": "Basilica of Our Lady of Mount Carmel",
+    "City": "Youngstown",
+    "State": "Ohio",
+    "Latitude": 41.099722,
+    "Longitude": -80.641944,
+    "Date": "2014.05.13",
+    "Number": 80
+  },
+  {
+    "Name": "Basilica and National Shrine of Our Lady of Lebanon",
+    "City": "North Jackson",
+    "State": "Ohio",
+    "Latitude": 41.1305,
+    "Longitude": -80.8214,
+    "Date": "2014.07.08",
+    "Number": 81
+  },
+  {
+    "Name": "National Shrine of the Little Flower Basilica",
+    "City": "Royal Oak",
+    "State": "Michigan",
+    "Latitude": 42.504167,
+    "Longitude": -83.171111,
+    "Date": "2014.12.23",
+    "Number": 82
+  },
+  {
+    "Name": "Basilica of St. Mary of Angels",
+    "City": "Olean",
+    "State": "New York",
+    "Latitude": 42.075075,
+    "Longitude": -78.431051,
+    "Date": "2017.02.14",
+    "Number": 83
+  }
+]

@@ -28,11 +28,14 @@ public class MainActivity extends ListActivity  {
             case 0:
                 Intent directoryIntent = new Intent(this, DirectoryActivity.class);
                 startActivity(directoryIntent);
+                break;
             case 1:
+                break;
                 // find basilica near me
             case 2:
                 Intent mapIntent = new Intent(this, MapActivity.class);
                 startActivity(mapIntent);
+                break;
         }
     }
 
